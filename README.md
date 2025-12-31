@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a btech first year ece student <br>
+I am currently pursuing Btech in Electronics and communication engineering <br>
 
 
 ## 🌐 Socials:
