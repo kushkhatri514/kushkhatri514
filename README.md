@@ -1,4 +1,4 @@
-![Header](./[your-header-image-name.png](https://github.com/kushkhatri514/kushkhatri514/blob/main/assets/Black%20and%20Gray%20Minimalist%20Shapes%20Personal%20Profile%20LinkedIn%20Banner.png))
+![Header]([your-header-image-name.png](https://github.com/kushkhatri514/kushkhatri514/blob/main/assets/Black%20and%20Gray%20Minimalist%20Shapes%20Personal%20Profile%20LinkedIn%20Banner.png))
 
 # 💫 About Me:
 I am currently pursuing Btech in Electronics and communication engineering <br>
